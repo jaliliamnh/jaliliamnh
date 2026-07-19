@@ -2,7 +2,7 @@
 
 
 
- to get you started:
+et you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
