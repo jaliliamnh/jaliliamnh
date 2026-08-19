@@ -17,7 +17,7 @@
 base64
 import zipfile
 iport io
-import os
+port os
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
