@@ -14,7 +14,7 @@
 
 
 
-se64
+64
 import zipfile
 iport io
 port os
