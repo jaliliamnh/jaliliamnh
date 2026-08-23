@@ -16,7 +16,7 @@
 64
 import zipfile
 iport io
-port os
+ os
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
