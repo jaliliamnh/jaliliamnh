@@ -15,7 +15,7 @@
 
 64
 import zipfile
-iport io
+ort io
 
 
 # ----------------------------
