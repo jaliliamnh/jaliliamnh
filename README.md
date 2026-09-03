@@ -14,7 +14,7 @@
 
 
 
-rt zipfile
+t zipfile
 
 
 
