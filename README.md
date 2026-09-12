@@ -19,7 +19,7 @@
 
 
 # ----------------------------
-SIC SETTINGS
+IC SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
