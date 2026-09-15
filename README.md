@@ -21,7 +21,7 @@
 # ----------------------------
 C SETTINGS
 # ----------------------------
-owner = "OWNER"          # e.g. "torvalds"
+owner = "OWNER"          # e.g.rvalds"
 repo  =EPO"           # e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
