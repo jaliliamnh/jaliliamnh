@@ -19,7 +19,7 @@
 
 
 # ----------------------------
-C SETTINGS
+C SETTINS
 # ----------------------------
 owner = "OWNER"          # e.g.rvalds"
 repo  =EPO"           # e.g. "linux"
