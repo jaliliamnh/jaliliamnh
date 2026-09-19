@@ -19,7 +19,7 @@
 
 
 # ----------------------------
- SETTINS
+TTINS
 # ----------------------------
 owner =WNER"          # e.g.rvalds"
 repo  =EPO"           # e.g. "linux"
