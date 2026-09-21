@@ -45,7 +45,7 @@ with zipfile.ZipFile(zip_bytes) as z:
     os.makedirs(extract_path, exist_ok=True)
     z.extractall(path=extract_path)
 
-print(f"✅  Repository '{owner}/{repo}' extracted to ./{repo}")
+rint(f"✅  Repository '{owner}/{repo}' extracted to ./{repo}")
 
 
 
