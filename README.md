@@ -19,7 +19,7 @@
 
 
 # ----------------------------
-TTINS
+TINS
 # ----------------------------
 owner =WNER"          # e.g.rvalds"
 epo  =EPO"           # e.g. "linux"
