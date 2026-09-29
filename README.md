@@ -21,7 +21,7 @@
 #---------------------------
 I
 # ----------------------------
-r =WNER"          # e.g.rvalds"
+r NER"          # e.g.rvalds"
 epo  =EPO"           # e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
