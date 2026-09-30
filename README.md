@@ -34,7 +34,7 @@ headers = {}  # public repo needs no auh
 # ----------------------------
 ip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
-esp.raise_for_status()
+p.raise_for_status()
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
