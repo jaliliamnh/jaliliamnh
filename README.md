@@ -21,7 +21,7 @@
 #---------------------------
 I
 # ----------------------------
-NER"          # e.g.rvalds"
+ER"          # e.g.rvalds"
 o  =EPO"           # e.g. "linu
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
