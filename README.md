@@ -21,7 +21,7 @@
 #---------------------------
 I
 # ----------------------------
-"          .d"
+"          ."
 O"           e.g.inu
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
