@@ -30,7 +30,7 @@ branch = "main"          #r the default branch you need
 ers = {}  lic repo needs no auh
 
 # ----------------------------
-# 2️⃣ ETCH ZIP ARCHIVE (quickest way to get the whole repo)
+# 2️⃣ ETCH P ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 ip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
