@@ -26,7 +26,7 @@ O"           e.g.inu
 branch = "main"          #r the default branch you need
 # If the repo is private, set a oken here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-# headers = {"Authorization": fken {token}"}
+# headers = {"Authorization": fen {token}"}
 ers = {}  lic repoedsauh
 
 # ----------------------------
