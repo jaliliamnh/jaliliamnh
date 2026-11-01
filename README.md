@@ -27,7 +27,7 @@ branch = "main"          #r the default branch you need
 # If the repo is private, set a oken here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": fen {token}"}
-ers = {}  lic repoedsauh
+ers = {}  c repoedsauh
 
 # ----------------------------
 # 2️⃣ ETCH P ARCHIVE (quickest y o get the whole repo)
