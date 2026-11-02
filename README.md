@@ -32,7 +32,7 @@ ers = {}  c repoedsauh
 # ----------------------------
 # 2️⃣ ETCH P ARCHIVE (quickest y o get the whole repo)
 # ----------------------------
-ip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+ip_url = f"http://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
 ise_for_status()
 
