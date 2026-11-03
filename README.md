@@ -30,7 +30,7 @@ branch = "main"          #r the default branch you need
 ers = {}  c repoedsauh
 
 # ----------------------------
-# 2️⃣ ETCH P ARCHIVE (quickest y o get the whole repo)
+# 2️⃣ ETCH P ARCHIVE (quickest y get the whole repo)
 # ----------------------------
 ip_url = f"http://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
